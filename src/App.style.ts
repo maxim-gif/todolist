@@ -35,7 +35,7 @@ export const AddTaskButton = styled.button`
   top:10px;
   background-color: white;
   background-position: center;
-  background-image: url('/plus.png');
+  background-image: url('https://maxim-gif.github.io/todolist/plus.png');
 `;
 
 export const TaskTextInput = styled.input`

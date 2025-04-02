@@ -22,7 +22,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-image: url('/mark.png');
 background-image: ${({ $completed }) => 
-    $completed === "true" ? "url('/mark.png')" : "none"};
+    $completed === "true" ? "url('https://maxim-gif.github.io/todolist/mark.png')" : "none"};
 `
 export const TaskText = styled.span<{ $completed: string }>`
 font-size: 22px;

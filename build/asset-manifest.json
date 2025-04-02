@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://maxim-gif.github.io/todolist/static/css/main.8a75b24b.css",
+    "main.js": "https://maxim-gif.github.io/todolist/static/js/main.0ebdab78.js",
+    "static/js/453.59bb3b6d.chunk.js": "https://maxim-gif.github.io/todolist/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "https://maxim-gif.github.io/todolist/index.html",
+    "main.8a75b24b.css.map": "https://maxim-gif.github.io/todolist/static/css/main.8a75b24b.css.map",
+    "main.0ebdab78.js.map": "https://maxim-gif.github.io/todolist/static/js/main.0ebdab78.js.map",
+    "453.59bb3b6d.chunk.js.map": "https://maxim-gif.github.io/todolist/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a75b24b.css",
+    "static/js/main.0ebdab78.js"
+  ]
+}

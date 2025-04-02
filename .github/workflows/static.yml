@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${ %PUBLIC_URL% }
+      url: ${ https://maxim-gif.github.io/todolist }
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
